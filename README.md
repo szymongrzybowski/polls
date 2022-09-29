@@ -16,8 +16,8 @@ The repository consists of:
 - comparison.png: chart comparing Correlation Coe. of two leading parties of Germany with two main Polish parties.
 
 Prerequisites:
-Python 3.8.1
-pandas
-numpy
-csv
-sklearn
+- Python 3.8.1
+- pandas
+- numpy
+- csv
+- sklearn
