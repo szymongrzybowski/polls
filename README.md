@@ -9,10 +9,11 @@ The repository consists of:
 - poly_reg.py: Polynomial Regression
 - multi_linreg.py: Multiple (Linear) Regression
 - svr.py: Support Vector Regression
+- create_table[2/3].py: Python script which selects columns from dataset and saves them to another csv file.
 - spd_union.csv: pair of columns (SPD and Union parties (DE))
 - ur_cc.csv: pair of columns (United Right and Civic Coalition parties (PL))
 - cc_tl.csv pair of columns (Civic Coalition and The Left (PL))
-- comparison.png: chart comparing Correlation Coe. of two leading parties of Germany with two main Polish parties
+- comparison.png: chart comparing Correlation Coe. of two leading parties of Germany with two main Polish parties.
 
 Prerequisites:
 Python 3.8.1
