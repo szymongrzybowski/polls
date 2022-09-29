@@ -12,6 +12,7 @@ The repository consists of:
 - spd_union.csv: pair of columns (SPD and Union parties (DE))
 - ur_cc.csv: pair of columns (United Right and Civic Coalition parties (PL))
 - cc_tl.csv pair of columns (Civic Coalition and The Left (PL))
+- comparison.png: chart comparing Correlation Coe. of two leading parties of Germany with two main Polish parties
 
 Prerequisites:
 Python 3.8.1
