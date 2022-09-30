@@ -22,4 +22,4 @@ Prerequisites:
 - csv
 - sklearn
 
-![comparison_ger_pl](https://user-images.githubusercontent.com/63613188/193352239-a9af09b6-b19f-47bb-8828-176b25de8056.png)
+![corr_comparison_ger_pl](https://user-images.githubusercontent.com/63613188/193353597-19206bee-63be-4877-abd1-77d51092e448.png)
