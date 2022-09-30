@@ -13,7 +13,7 @@ The repository consists of:
 - spd_union.csv: pair of columns (SPD and Union parties (DE))
 - ur_cc.csv: pair of columns (United Right and Civic Coalition parties (PL))
 - cc_tl.csv pair of columns (Civic Coalition and The Left (PL))
-- comparison.png: chart comparing Correlation Coe. of two the leading parties from Germany with two main Polish parties.
+- corr_comparison_ger_pl.png: chart comparing Correlation Coe. of two the leading parties from Germany with two main Polish parties.
 
 Source of data sets: wikipedia.org
 
