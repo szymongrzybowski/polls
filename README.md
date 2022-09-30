@@ -21,3 +21,5 @@ Prerequisites:
 - numpy
 - csv
 - sklearn
+
+![comparison_ger_pl](https://user-images.githubusercontent.com/63613188/193253971-0ae9b6b5-79f9-41a3-94dc-62ce93dfe17b.png)
