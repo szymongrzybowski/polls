@@ -15,6 +15,8 @@ The repository consists of:
 - cc_tl.csv pair of columns (Civic Coalition and The Left (PL))
 - comparison.png: chart comparing Correlation Coe. of two the leading parties from Germany with two main Polish parties.
 
+Source of data sets: wikipedia.org
+
 Prerequisites:
 - Python 3.8.1
 - pandas
