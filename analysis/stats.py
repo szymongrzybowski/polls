@@ -22,7 +22,7 @@ def operations(i: float) -> List[float]:
     mean = sum(i) / len(i)
     max_ = max(i)
     min_ = min(i)
-    variance = np.var(i)
+    variance = np.var(i, ddof=1)
     st_dev = math.sqrt(variance)
     first_quantile = np.quantile(i, 0.25)
     median_ = np.quantile(i, 0.5)
